@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sandes93.github.io/jan",
+  "homepage": "https://sandes93.github.io/testrouter",
   "name": "spa-github-pages",
   "version": "5.1.0",
   "private": true,
@@ -15,6 +15,7 @@
   "author": "Rafael Pedicini <code@rafrex.com>",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
